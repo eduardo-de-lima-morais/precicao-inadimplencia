@@ -1,1 +1,1 @@
-# precicao-inadimplencia
+Predição de inadimplencia utilizando Machine Learning
